@@ -7,3 +7,5 @@ This is the source code to build the android head app for Project Nano Corely. Y
 - STOP : Stop the system.
 - DREAM : Start the consolidator to process unconsolidated memories.
 - SLEEP : Stopping the system and immediately start the consolidator.
+
+[Project Nano Corely Repository](https://github.com/HarithMarzuki/Project-Nano-Corely)
